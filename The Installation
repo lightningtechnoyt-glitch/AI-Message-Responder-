@@ -1,0 +1,59 @@
+## 📥 How to Install
+
+1. Download the latest `.exe` from the **Releases** page of this repo.  
+2. Run the `.exe` and complete the installation (or open it if it is portable).  
+3. Open **AI Message Responder**.
+
+---
+
+## 🔑 Choose AI model & add API key
+
+1. In the app, select your **AI model**: `Gemini / Groq / SambaNova / OpenRouter`.  
+2. Paste your **API key** for the chosen provider.
+
+> Gemini and Groq are recommended for best performance and speed.
+
+Where to get API keys:
+
+- **Gemini** (Google):  
+  Go to Google AI Studio → API Keys:  
+  https://aistudio.google.com/app/apikey[web:28][web:29]
+
+- **Groq**:  
+  Sign in to the Groq Console and create an API key:  
+  https://console.groq.com/[web:33][web:37]
+
+- **SambaNova**:  
+  Create an account and generate an API key on the SambaNova API keys page:  
+  https://cloud.sambanova.ai/ or via their quickstart docs:  
+  https://docs.sambanova.ai/docs/en/get-started/quickstart[web:34]
+
+- **OpenRouter**:  
+  Log in to OpenRouter and create an API key:  
+  https://openrouter.ai/keys[web:35]
+
+Copy your key from each site and paste it into the app’s API key field.  
+Keep your keys **secret** and do not share them publicly.
+
+---
+
+## 🖼️ Select chat and input areas
+
+1. Open the chat app you want to automate (WhatsApp, Discord, etc.) and make sure the chat is visible.  
+2. In AI Message Responder, click the button **“Select region”** and drag over the **chat messages area**.  
+3. Click the button below (for input) and drag over the **typing/input area** where the AI should type.  
+4. Save or confirm the selection in the app.
+
+---
+
+## ▶️ Start the bot
+
+1. Set your **bot personality** (optional but recommended).  
+2. Click **Start** / **Run** in the app.  
+3. The app will now:
+   - Watch the selected chat region,
+   - Read new messages,
+   - Send them to the chosen AI model,
+   - Type the reply into the input area and send it automatically.
+
+You can stop it anytime using the **Stop** button or by closing the app.
