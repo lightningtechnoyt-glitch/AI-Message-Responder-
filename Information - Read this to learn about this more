@@ -1,0 +1,109 @@
+# AI Message Responder
+
+AI Message Responder is a **desktop tool** that can automatically reply to messages you receive on apps like WhatsApp, Discord, and more – on any platform where chat is visible on your screen.[page:26]
+
+It uses a smart screen-capture system to read your chat area (you choose and crop the region), sends the text to AI, and then types and sends the reply for you automatically.[page:26]
+
+> Perfect for busy people, streamers, community managers, and anyone who wants smart auto‑replies without needing custom bots.
+
+---
+
+## ✨ Features
+
+- Auto‑reply to messages on **WhatsApp, Discord, and other chat apps** (anything that appears on your screen).[page:26]  
+- Custom crop area so the app only “sees” your chat, not your whole screen.[page:26]  
+- **Bot personality system** – fully customize how your AI behaves and talks.  
+- Uses AI to generate natural responses based on the incoming message.  
+- Automatically types the reply into the input box and sends it for you.[page:26]  
+- No need for API access to WhatsApp / Discord bots – works purely from your screen.  
+- Easy to start/stop whenever you want.
+
+---
+
+## 🧠 Bot Personality
+
+AI Message Responder lets you create your own **bot personality** so every reply feels unique and on‑brand.
+
+You can define rules like:
+
+> “You are Lightning Bot. You only reply about yourself. Speak in the same language as the user. Keep answers short and confident.”
+
+Examples of what you can customize:
+
+- Name and identity (e.g. “Lightning Bot”, “Support Bot”, “Anime Friend”).  
+- Tone (funny, serious, professional, chill, etc.).  
+- Allowed topics (only talk about yourself, only talk about tech, avoid politics, etc.).  
+- Language behavior (always reply in the user’s language, or force a specific language).  
+
+Once you set a personality, all replies follow those rules until you change them.
+
+---
+
+## 🚀 How It Works
+
+1. You open your chat app (WhatsApp, Discord, etc.) and keep the chat window visible.[page:26]  
+2. In AI Message Responder, you select and crop the chat area once.[page:26]  
+3. The app continuously reads new messages from that region using screen capture + OCR.  
+4. The message text is sent to an AI model, which generates a reply.  
+5. The app automatically types the reply into the chat input box and sends it.
+
+---
+
+## 📥 Download
+
+> ⚠️ Update these links once you upload your .exe as a Release or external host.
+
+- **Latest Windows build (.exe)**: [Download here](https://github.com/lightningtechnoyt-glitch/AI-Message-Responder-/releases/latest)  
+- Backup link (if you host somewhere else): `[your Google Drive / Mega link]`
+
+---
+
+## 🖥️ Requirements
+
+- Windows 10/11 (for the .exe build).  
+- Stable internet connection (for AI responses).  
+- An AI API key if required (e.g., OpenAI / other provider) – configure in settings if the app asks.
+
+---
+
+## 🧰 Installation & Setup
+
+1. Download the latest `.exe` from the Releases page above.  
+2. Run the installer or open the portable `.exe`.  
+3. Log in or paste your AI API key if prompted.  
+4. Open your chat app (WhatsApp, Discord, etc.) and place the window where you want.  
+5. In AI Message Responder:
+   - Click “Select Chat Area” and draw a box around the messages.[page:26]  
+   - Optionally select the input box area if required.  
+6. Click “Start Auto‑Responder”.
+
+You can stop it anytime using the **Stop** button or by closing the app.
+
+---
+
+## ❗ Important Notes
+
+- This tool reads only the part of the screen you select, but you are still responsible for what is sent under your account.[page:26]  
+- Use it respectfully on servers and chats that allow automation.  
+- Check each platform’s Terms of Service to make sure you are not breaking any rules.
+
+---
+
+## 🧑‍💻 Developer
+
+Created by **lightningtechnoyt-glitch**.  
+Issues and suggestions: open an Issue on this repo or contact me via Discord/Email
+
+Discord : Akindu#9649
+Email: lightningtechnoyt@gmail.com
+
+---
+
+## 🗺️ Roadmap
+
+- Better detection for multiple chats and group filtering.  
+- Support for custom reply rules and presets.  
+- MacOS and Linux builds (if possible).  
+- More AI providers and offline modes (where available).
+
+---
